@@ -15,4 +15,4 @@
 ## 🐣 기초 스터디
 딥러닝 기초 지식을 쌓기 위해 주 동안 딥러닝 강의를 수강합니다.
 
-[딥러닝(2022) 강의](https://www.youtube.com/playlist?app=desktop&list=PLeiav_J6JcY8iFItzNZ_6PMlz9W4_jz5J, "Youtube")
+[딥러닝(2022)](https://www.youtube.com/playlist?app=desktop&list=PLeiav_J6JcY8iFItzNZ_6PMlz9W4_jz5J, "Youtube")
