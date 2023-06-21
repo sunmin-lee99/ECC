@@ -13,8 +13,7 @@
 - 데이터 과학 A팀 : 이유지(Team Leader), 이선민, 김수진, 진수연
 
 ## 🐣 기초 스터디
-딥러닝 기초 지식을 쌓기 위해 주 동안 딥러닝 강의를 수강했습니다.
-
+1. 딥러닝 기초 지식을 쌓기 위해 주 동안 딥러닝 강의를 수강했습니다.
 [딥러닝(2022)](https://www.youtube.com/playlist?app=desktop&list=PLeiav_J6JcY8iFItzNZ_6PMlz9W4_jz5J, "Youtube")
 
 ## 👩🏻‍💻 2023-1 컨퍼런스 발표
