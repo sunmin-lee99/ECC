@@ -17,7 +17,7 @@
 
 [딥러닝(2022)](https://www.youtube.com/playlist?app=desktop&list=PLeiav_J6JcY8iFItzNZ_6PMlz9W4_jz5J, "Youtube")
 
-## 👩🏻‍💻 컨퍼런스 발표
+## 👩🏻‍💻 2023-1 컨퍼런스 발표
 1학기 동안 공부한 내용을 바탕으로 동아리 컨퍼런스에서 Transformer 논문 리뷰를 주제로 팀 발표를 진행했습니다.
 
 [Attention is all you need](https://arxiv.org/abs/1706.03762, "paper")
